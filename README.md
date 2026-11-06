@@ -53,26 +53,6 @@ I am a passionate **Full-Stack Software Engineer** specialized in creating scala
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| [**Dharma Putra Maritime**](https://github.com/fadli271/dharma-putra-maritim-landing) | Astro, Tailwind, Docker | Corporate maritime landing page with multilingual support and international design standards. |
-| [**Neo Perdana Abadi**](https://github.com/fadli271/neo-perdana-abadi) | Astro, Tailwind CSS | Sleek, modern corporate web presence with rapid static rendering. |
-| [**Contact Management API**](https://github.com/fadli271/nestjs) | NestJS, Prisma, MySQL | Robust RESTful service with Zod schema validation, Winston logging, and E2E test suites. |
-| [**Fadli Dev Studio Portfolio**](https://github.com/fadli271/fadli271.github.io) | Next.js 14, HeroUI, Tailwind | Personal portfolio and service pricing showcase built on Next.js App Router. |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadli271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Fadli's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadli271&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <em>“Push Your limits !”</em>
 </p>
