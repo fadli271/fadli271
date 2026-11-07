@@ -14,17 +14,17 @@
 
 ## About
 
-Full-stack engineer building web applications and business systems. I work with Next.js, Astro, TypeScript, and NestJS, with a focus on web performance, clean architecture, and type safety.
+Since 2016, I have been building software systems that solve operational problems for businesses. I focus on replacing slow manual workflows with fast, maintainable web applications and clean data architecture.
 
-Through Fadli Dev Studio, I develop internal operations software (POS, ERP, staff monitoring) and corporate websites.
+Currently working as a Fullstack Engineer at PT Sinarmas LDA Maritime, with previous engineering roles at Pertamina Bina Medika IHC, Otoraja Network, and Ralali.com. Through Fadli Dev Studio, I design and deploy operational software (ERP, POS, logistics tracking) and high-performance corporate web platforms.
 
 ---
 
 ## Stack
 
 - **Frontend:** TypeScript, JavaScript, Next.js, React, Astro, Tailwind CSS, HTML5, CSS3
-- **Backend:** NestJS, Node.js, Express, Prisma ORM, MySQL, REST APIs
-- **Tools and infrastructure:** Docker, Nginx, Git, Linux
+- **Backend:** NestJS, Node.js, Go, PHP, Laravel, Python, Django, Prisma ORM, MySQL, PostgreSQL, Redis
+- **Tools and infrastructure:** Docker, Nginx, AWS, GCP, Git, Linux
 
 ---
 
